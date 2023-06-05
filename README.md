@@ -19,7 +19,16 @@
 
 ## 다시 업로드 법
 
-- 소스 코드 변겅
+- 소스 코드 변경
 - git add .
 - git commit -m "변경내용 적고"
 - git push origin master
+
+## 잘 안될때 해결법
+
+- git remote -v
+- git remote rm origin
+
+## GitHub 소스코드 다운로드 하는법
+
+- git clone 주소
